@@ -1,6 +1,6 @@
 <!-- 🌟 Soft Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=200&section=header&text=Welcome%20to%20Muhammad%20Hammad%20World&fontSize=38&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=617094&height=200&section=header&text=Welcome%20to%20Muhammad%20Hammad%20World&fontSize=38&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <!-- 🙋 Name and Subtitle -->
@@ -28,7 +28,7 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,streamlit,docker,git,github,vscode,html,css,js,react,nextjs,tailwind,figma,excel" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,streamlit,docker,git,github,vscode,html,css,js,react,nextjs,tailwind,excel" />
 </p>
 
 ---
@@ -43,15 +43,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hammadrehmani1020&theme=maroongold&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hammadrehmani1020&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadrehmani1020&show_icons=true&theme=maroongold&hide_border=false&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadrehmani1020&show_icons=true&theme=dark&hide_border=false&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadrehmani1020&layout=compact&theme=maroongold&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadrehmani1020&layout=compact&theme=dark&hide_border=false" />
 </p>
 
 ---
@@ -80,5 +80,5 @@
 
 <!-- 🌷 Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=617094&height=120&section=footer" />
 </p>
