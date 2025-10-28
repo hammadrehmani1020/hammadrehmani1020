@@ -1,6 +1,6 @@
 <!-- 🌟 Soft Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=200&section=header&text=Welcome%20to%20Salar%20Mastoi's%20World&fontSize=38&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=200&section=header&text=Welcome%20to%20Muhammad%20Hammad%20World&fontSize=38&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <!-- 🙋 Name and Subtitle -->
