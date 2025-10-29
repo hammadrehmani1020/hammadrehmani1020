@@ -1,6 +1,6 @@
 <!-- 🌟 Soft Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=617094&height=200&section=header&text=Welcome%20to%20Muhammad%20Hammad%20World&fontSize=38&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=617094&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=38&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <!-- 🙋 Name and Subtitle -->
@@ -43,50 +43,37 @@
 <h4>🐍 Programming Languages</h4>
 <p align="center"> <img src="https://skillicons.dev/icons?i=python" /> </p>
 
+
 ---
+
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadrehmani1020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&border_radius=15" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadrehmani1020&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=15" width="48%" />
+<div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadrehmani1020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&border_radius=15" width="48%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadrehmani1020&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=15" width="48%" /> 
+</div> 
+<div align="center" style="margin: 20px 0;"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadrehmani1020&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15" width="48%" /> 
+  <img src="https://github-contributor-stats.vercel.app/api?username=hammadrehmani1020&hide_border=true&title_color=58A6FF&text_color=C9D1D9&limit=5&theme=transparent&combine_all_yearly_contributions=true" width="48%" /> 
 </div>
+<div align="center" style="margin: 20px 0;"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=hammadrehmani1020&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" /> 
+</div> 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadrehmani1020&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15" width="50%" />
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=hammadrehmani1020&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hammadrehmani1020&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📈 Contribution Activity
+
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadrehmani1020&custom_title='s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
+</div>
+
+
 
 ---
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hammadrehmani1020&theme=transparent&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadrehmani1020&show_icons=true&theme=transparent&hide_border=false&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hammadrehmani1020&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadrehmani1020&layout=compact&theme=transparent&hide_border=false" />
-</p>
-
----
 
 
 ## 🔗 Let's Connect
@@ -102,6 +89,11 @@
 
 
 ---
+
+### 💖 Signature
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=1E90FF&center=true&vCenter=true&width=700&height=60&lines=+Created+by+Muhammad+Hammad+" />
+</p>
 
 <!-- 🌷 Footer Banner -->
 <p align="center">
