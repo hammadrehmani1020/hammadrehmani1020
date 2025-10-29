@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Muhammad Hammad
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&lines=AI%2FData+Scientist+%7C+Kaggle+Notebook+Expert;Turning+Data+into+Intelligence;Building+the+Future+with+AI;Let’s+Turn+Your+Data+into+Decisions)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&lines=Expert+in+Data+Scientist%2FAi;Kaggle+Notebook+Expert;Turning+Data+into+Intelligence;Building+the+Future+with+AI;Let’s+Turn+Your+Data+into+Decisions)
 
 🎯 I speak fluent **Artificial Intelligence**, **Machine Learning** and **Data Science**.
 
@@ -77,31 +77,14 @@
 
 ## 🔗 Let's Connect
 
-## 🔗 Let's Connect  
-
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/hammadrehmani1020" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a> 
-  <a href="https://github.com/hammadrehmani1020" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
-  </a> 
-  <a href="mailto:hammadrehmani1020@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/hammadrehmani1020" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" />
-  </a> 
-  <a href="https://www.instagram.com/hammadrehmani1020" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
-  </a> 
-  <a href="https://www.youtube.com/@hammadrehmani1020" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube&theme=dark" alt="YouTube" />
-  </a> 
-  <a href="https://www.tiktok.com/@hammadrehmani1020" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" alt="TikTok" />
-  </a>
-</p>
+  <a href="https://www.linkedin.com/in/hammadrehmani1020" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /> </a> 
+  <a href="https://github.com/hammadrehmani1020" target="_blank"> <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /> </a> 
+  <a href="mailto:hammadrehmani1020@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /> </a> 
+  <a href="https://twitter.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" /> </a> 
+  <a href="https://www.instagram.com/hammadrehmani1020" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /> </a> 
+  <a href="https://www.youtube.com/@muhammadhammad2774" target="_blank"> <img src="https://skillicons.dev/icons?i=youtube&theme=dark" alt="YouTube" /> </a> 
+  <a href="https://www.tiktok.com/@hammadrehmani1020" target="_blank"> <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" alt="TikTok" /> </a> </p>
 
 
 <p align="center">
