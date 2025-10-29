@@ -7,6 +7,9 @@
 <div align="center">
 
 # 👋 Hi, I'm Muhammad Hammad
+<h3>Junior Data Scientist | Python | Machine Learning | Statistical Analysis | Kaggle Notebook Expert | Let’s Turn Your Data into Decisions</h3>
+<p align="left"> <img width="20%" src="https://komarev.com/ghpvc/?username=hammadrehmani1020&label=Profile%20views&color=0e75b6&style=flat" alt="hammadrehmani1020" /> </p>
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00d9ff&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scienctist;Exploring+AI+%26+ML+and+DL;Kaggle+Notebook+Expert;Turning+Data+into+Intelligence;Building+the+Future+with+AI;Let’s+Turn+Your+Data+into+Decisions)
 
@@ -62,6 +65,9 @@
 </div> 
 
 
+<p align="center">
+  <img src="https://github.com/hammadrehmani1020/Kissa-Zehra/blob/output/snake.svg" alt="Snake Animation" />
+</p>
 ---
 
 ## 📈 Contribution Activity
