@@ -77,13 +77,32 @@
 
 ## 🔗 Let's Connect
 
+## 🔗 Let's Connect  
+
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/hammadrehmani1020" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /> </a> 
-  <a href="https://github.com/hammadrehmani1020" target="_blank"> <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /> </a> 
-  <a href="mailto:hammadrehmani1020@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /> </a> 
-  <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" /> </a> 
-  <a href="https://www.instagram.com/hammadrehmani1020" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /> </a> 
+  <a href="https://www.linkedin.com/in/hammadrehmani1020" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a> 
+  <a href="https://github.com/hammadrehmani1020" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+  </a> 
+  <a href="mailto:hammadrehmani1020@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/hammadrehmani1020" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" />
+  </a> 
+  <a href="https://www.instagram.com/hammadrehmani1020" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+  </a> 
+  <a href="https://www.youtube.com/@hammadrehmani1020" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube&theme=dark" alt="YouTube" />
+  </a> 
+  <a href="https://www.tiktok.com/@hammadrehmani1020" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" alt="TikTok" />
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hammadrehmani1020/">
