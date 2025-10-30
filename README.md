@@ -65,9 +65,10 @@
 </div> 
 
 
-<p align="center">
-  <img src="https://github.com/hammadrehmani1020/Kissa-Zehra/blob/output/snake.svg" alt="Snake Animation" />
-</p>
+---
+
+![Snake animation](https://github.com/hammadrehmani1020/hammadrehmani1020/blob/output/snake.svg)
+
 ---
 
 ## 📈 Contribution Activity
