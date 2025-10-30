@@ -74,7 +74,7 @@
 ## 📈 Contribution Activity
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadrehmani1020&custom_title='s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadrehmani1020&custom_title=Hammad's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
 </div>
 
 
