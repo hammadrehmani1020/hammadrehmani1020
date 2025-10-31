@@ -35,16 +35,29 @@
 
 ## 🧰 Tech Toolbox
 
-<h4>🌐 Web Development </h4>
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
-<h4>🧠 Machine Learning & Data Science</h4>
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,numpy,pandas" /> </p>
-<h4>☁️ Cloud & DevOps </h4>
-<p align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,docker" /> </p>
-<h4>🛢 Databases & Tools</h4>
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" /> </p>
-<h4>🐍 Programming Languages</h4>
-<p align="center"> <img src="https://skillicons.dev/icons?i=python" /> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4682B4?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics-3B82F6?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-005C9E?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-007ACC?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
 
 ---
@@ -82,18 +95,25 @@
 ---
 
 
-
 ## 🔗 Let's Connect
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/hammadrehmani1020" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /> </a> 
-  <a href="https://github.com/hammadrehmani1020" target="_blank"> <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /> </a> 
-  <a href="mailto:hammadrehmani1020@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /> </a> 
-  <a href="https://twitter.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" /> </a> 
-  <a href="https://www.instagram.com/hammadrehmani1020" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /> </a> 
-  <a href="https://www.youtube.com/@muhammadhammad2774" target="_blank"> <img src="https://skillicons.dev/icons?i=youtube&theme=dark" alt="YouTube" /> </a> 
-  <a href="https://www.tiktok.com/@hammadrehmani1020" target="_blank"> <img src="https://skillicons.dev/icons?i=tiktok&theme=dark" alt="TikTok" /> </a> </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/hammadrehmani1020/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/hammadrehmani1020/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@hammadrehmani1020">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://github.com/hammadrehmani1020">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@muhammadhammad2774">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ---
 
