@@ -113,6 +113,9 @@
   <a href="https://youtube.com/@muhammadhammad2774">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/hammadrehmani1020">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 ---
