@@ -120,10 +120,6 @@
 
 ---
 
-### 💖 Signature
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=1E90FF&center=true&vCenter=true&width=700&height=60&lines=+Created+by+Muhammad+Hammad+" />
-</p>
 
 <!-- 🌷 Footer Banner -->
 <p align="center">
