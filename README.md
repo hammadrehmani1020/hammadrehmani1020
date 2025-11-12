@@ -22,8 +22,12 @@
 
 
 ---
+<br>
 
 ## 💡 About Me
+
+<br>
+
 
 -  I'm passionate about **AI**, **Data Science**, and **Machine Learning**.
 - 🏫 Student of **Quaid-e-Awam University Sakrand Road, Nawabshah, Sindh, Pakistan**.
@@ -32,8 +36,12 @@
 - 🌐 Portfolio: [**Coming Soon**](https://github.com/salarmastoi110)
 
 ---
+<br>
 
 ## 🧰 Tech Toolbox
+
+<br>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
@@ -62,8 +70,12 @@
 
 ---
 
+<br>
 
 ## 📊 GitHub Analytics
+
+<br>
+
 
 <div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=hammadrehmani1020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&border_radius=15" width="48%" /> 
@@ -79,12 +91,19 @@
 
 
 ---
+<br>
 
 ![Snake animation](https://github.com/hammadrehmani1020/hammadrehmani1020/blob/output/snake.svg)
 
+<br>
+
 ---
 
+<br>
+
 ## 📈 Contribution Activity
+
+<br>
 
 <div align="center" style="margin: 30px 0;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadrehmani1020&custom_title=Muhammad+Hammad's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
@@ -94,8 +113,11 @@
 
 ---
 
+<br>
 
 ## 🔗 Let's Connect
+
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hammadrehmani1020/">
@@ -118,7 +140,7 @@
   </a>
 </p>
 
----
+<br>
 
 
 <!-- 🌷 Footer Banner -->
