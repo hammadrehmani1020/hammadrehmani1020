@@ -74,17 +74,17 @@
 
 <br>
 
-<div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
+<div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=hammadrehmani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&border_radius=15" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadrehmani&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=15" width="48%" />
 </div>
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 20px 0;"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadrehmani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15" width="48%" />
   <img src="https://github-contributor-stats.vercel.app/api?username=hammadrehmani&hide_border=true&title_color=58A6FF&text_color=C9D1D9&limit=5&theme=transparent&combine_all_yearly_contributions=true" width="48%" />
 </div>
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=hammadrehmani&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
+<div align="center" style="margin: 20px 0;"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=hammadrehmani&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" /> 
+</div> 
 
 
 ---
